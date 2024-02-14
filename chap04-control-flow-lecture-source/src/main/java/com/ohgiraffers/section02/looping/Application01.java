@@ -17,13 +17,14 @@ public class Application01 {
 //        a2.printUpgradeGugudan();
 //        a2.printStarInputRowTimes();
 
-        Prcatice p = new Prcatice();
-//        p.test1();
-//        p.test2();
-//        p.test3();
-//        p.test4();
-//        p.test5();
-        p.test6();
+        B_while b = new B_while();
+//        b.testSimpleWhileStatement();
+//        b.testWhileExample1();
+//        b.testWhileExample2();
+
+        B_doWhile c = new B_doWhile();
+//        c.testSimpleDoWhileStatement();
+        c.testDoWhileExample1();
     }
 
 
