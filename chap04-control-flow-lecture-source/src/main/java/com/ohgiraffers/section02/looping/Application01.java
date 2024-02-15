@@ -24,7 +24,10 @@ public class Application01 {
 
         B_doWhile c = new B_doWhile();
 //        c.testSimpleDoWhileStatement();
-        c.testDoWhileExample1();
+//        c.testDoWhileExample1();
+
+        Prcatice p = new Prcatice();
+        p.test6();
     }
 
 
